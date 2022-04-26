@@ -2,8 +2,7 @@
   <b>Mohamed Khaled</b>
 </h1>
 
-Heya! I'm Mohamed Khaled, a Full Stack Developer living in Alexandria, Egypt. I'm an ITI Intern (9 Month Program),  
-Track Professional Development & BI.
+Heya! I'm Mohamed Khaled, a Full Stack Developer living in Alexandria, Egypt. I'm an ITI Intern (9 Month Program),  Track Professional Development & BI.
 
 <br>
 
