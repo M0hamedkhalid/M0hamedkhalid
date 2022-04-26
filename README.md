@@ -79,7 +79,7 @@ public class AboutMe
 [![Mohamed Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=M0hamedkhalid&custom_title=Mohamed%20Khaled%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 <br>
-<h3 align="center">Connect me:</h3>
+<h3 align="center">Contact Me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hasanin)
